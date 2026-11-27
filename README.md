@@ -1,3 +1,3 @@
 # OLA-cab booking analysis
 Interactive Ola Cab Booking Analysis Dashboard built using Power BI. Analyzed 150K+ booking records to uncover insights into ride bookings, revenue, cancellations, customer behavior, driver performance, and booking trends through interactive visualizations and KPIs.
-<img src="https://github.com/PrakashPrajapat01/ola-cab-booking-analysis/blob/c0da8221543a919da98d55acec39ecaac25cc85d/Ola%20Cabs%20Booking%20Analysis.png" alt="Image Description" width="600">
+<img src="[https://github.com/PrakashPrajapat01/ola-cab-booking-analysis/blob/c0da8221543a919da98d55acec39ecaac25cc85d/Ola%20Cabs%20Booking%20Analysis.png](https://github.com/PrakashPrajapat01/OLA-Cabs-Booking-Analysis/blob/e4f5d9384d1aec2138d3bb6d851519024e527d3f/Ola%20Cabs%20Booking%20Analysis.gif)" alt="Image Description" width="600">
