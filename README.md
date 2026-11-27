@@ -36,7 +36,7 @@ The dashboard transforms raw booking data into meaningful insights to support da
 
 ## 🖥️ Dashboard Preview
 
-<!-- Add your dashboard screenshots here -->
+<img src="https://github.com/PrakashPrajapat01/OLA-Cabs-Booking-Analysis/blob/ffa10cc6ce1d23b7d944776cecd2b6218751cdbe/Ola%20Cabs%20Booking%20Analysis.gif" alt="Image Description" width="600">
 
 ## 📂 Project Files
 
