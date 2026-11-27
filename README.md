@@ -25,7 +25,7 @@ The dashboard transforms raw booking data into meaningful insights to support da
 - Driver Ratings
 - Booking and Cancellation Analysis
 
-## Key Insights 
+## 💡 Key Insights 
 - Booking cancellation percentage
 - Revenue contribution
 - Top-performing locations
